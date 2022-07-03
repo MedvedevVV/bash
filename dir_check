@@ -3,7 +3,7 @@ mydir=/home/vladimir
 if [ -d $mdir ]
 then
 echo "The $mdir directory exists"
-cd $ mdir
+cd $mdir
 ls
 else
 echo "The $mdir directory does not exist"
